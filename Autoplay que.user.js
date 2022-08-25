@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Autoplay queue
-// @namespace    *
+// @namespace    https://github.com/SgtBlade/Floatplane-video-queue-system/blob/main/Autoplay%20que.user.js
 // @version      1.0
 // @description  Second part of the floatplane video queue system
 // @author       SgtBlade
