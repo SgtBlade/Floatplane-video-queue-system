@@ -125,7 +125,7 @@
              item[1].stopPropagation();
              item[1].preventDefault();
              item[1].stopImmediatePropagation();
-             iem[1].currentTarget.parentElement.remove();
+             item[1].currentTarget.parentElement.remove();
 
             //Check for the correct index & remove from the array
             let index = videoQueue.findIndex((queueItem) => { return queueItem.videoUrl === item[0].videoUrl})
