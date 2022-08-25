@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ViewingQueue
-// @namespace    *
+// @namespace    https://github.com/SgtBlade/Floatplane-video-queue-system/blob/main/ViewingQue.user.js
 // @version      1.0
 // @description  Add videos you want to watch to a queue
 // @author       SgtBlade
