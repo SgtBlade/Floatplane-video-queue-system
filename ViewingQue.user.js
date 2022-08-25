@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Add videos you want to watch to a queue
 // @author       SgtBlade
-// @match        https://www.floatplane.com/channel/linustechtips/*
+// @match        https://www.floatplane.com/channel/*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=floatplane.com
 // @grant        none
 // ==/UserScript==
